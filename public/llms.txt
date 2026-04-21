@@ -1,0 +1,59 @@
+# Business — Generative Engine Optimization Map
+
+---
+
+## Pages
+
+### בית
+https://example.com
+חנות תכשיטים מקוונת עם קולקציות עוצרות נשימה. מצאי את התכשיט המושלם לכל רגע מיוחד — קניית תכשיטים אינטרנט ישראל בקלות, במהירות ובסטייל.
+
+### תכונות
+https://example.com/features
+משלוח מהיר, אחריות מלאה ועיצובים בלעדיים — תכשית לי מביאה לך חוויית קניית תכשיטים אינטרנט ישראל ברמה אחרת לגמרי. גלי למה אלפי לקוחות בוחרות בנו.
+
+### אודות
+https://example.com/about
+תכשית לי נולדה מאהבה עמוקה לאומנות ולנשיות. גלי את הערכים, החזון והתשוקה שמניעים אותנו ליצור מתנות תכשיטים לאישה שנשארות בלב לנצח.
+
+### צור קשר
+https://example.com/contact
+יש שאלה על תכשיט? רוצה עזרה במציאת מתנות תכשיטים לאישה מושלמות? צוות תכשית לי כאן בשבילך — צרי קשר עכשיו ונמצא יחד את התכשיט שחלמת עליו.
+
+### Products
+https://example.com/products
+המוצרים שלנו - תכשית לי
+
+### Product Detail
+https://example.com/product/:slug
+פרטי המוצר - תכשית לי
+
+### Category
+https://example.com/category/:slug
+מוצרים - תכשית לי
+
+## Legal & Policy
+
+### Privacy Policy
+https://example.com/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://example.com/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://example.com/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+# Business Context (for LLM understanding)
+
+## About Business
+---
+
+# Additional Resources
+
+- **Sitemap**: https://example.com/sitemap.xml
+- **Robots.txt**: https://example.com/robots.txt
